@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**jayashree51397-blip/jayashree51397-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jayashree Sakthivel 👋
 
-Here are some ideas to get you started:
+ECE student building systems at the intersection of 
+hardware and machine intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With
+
+**Languages**
+C · C++ · Python · SQL
+
+**Microcontrollers & Hardware**
+Arduino · ESP32 · STM32 (ARM Cortex-M) · Raspberry Pi
+
+**Tools & Platforms**
+STM32CubeIDE · VS Code · Git · GitHub · Blynk
+
+**Libraries & Frameworks**
+Streamlit · SciPy · Plotly · GitHub Actions
+
+## 🚀 Featured Projects
+
+🔭 Modulation Master — Cloud-Native SDR & DSP Suite
+Signal simulation platform with real-time SNR/BER analytics
+
+🧠 Neuromorphic Hardware System
+Domain Excellence Award — AI/ML | National Hackathon
+
+⚡ EV Power Management System
+IoT-based battery monitoring with automated relay control
+
+## 📫 Connect With Me
+LinkedIn URL-www.linkedin.com/in/jayashree-sakthivel-144171346
