@@ -31,4 +31,4 @@ Domain Excellence Award — AI/ML | National Hackathon
 IoT-based battery monitoring with automated relay control
 
 ## 📫 Connect With Me
-LinkedIn URL-www.linkedin.com/in/jayashree-sakthivel-144171346
+LinkedIn URL- https://www.linkedin.com/in/jayashree-sakthivel-144171346
